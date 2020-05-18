@@ -29,4 +29,4 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
-/.vs/lll/v15/Server/sqlite3
+/AscPunk/.vs/AscPunk/v15/Server/sqlite3
