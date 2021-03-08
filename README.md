@@ -1,2 +1,2 @@
 # Asc.Punk
-2020腾讯高校游戏创意制作大赛
+Let's try to make a 赛博朋克战棋
